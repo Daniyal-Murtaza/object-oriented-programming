@@ -23,6 +23,8 @@ void Complex::printComplex()
 
 int main()
 {
+    // Complex x;  ---> additional informaion: it will give error of "no default costructor".
+
     // how to give number in x and y in Parametrized constructor. Two ways:
 
     // implicit call
