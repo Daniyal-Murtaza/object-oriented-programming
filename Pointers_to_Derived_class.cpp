@@ -50,3 +50,15 @@ int main()
 
     return 0;
 }
+
+/*
+
+Base class ka pointer banaya or agr usai point kradiya derived class k object pr tou sirf base class
+k data members or function members accessible hogai (Derived class k accessible nahi honge).
+
+Derived class ka pointer banaya or agr usai point kradiya derived class k object pr tou base class or derived class dono
+k data members or function members accessible hogai.
+
+SIMPLE AS THAT!
+
+*/
